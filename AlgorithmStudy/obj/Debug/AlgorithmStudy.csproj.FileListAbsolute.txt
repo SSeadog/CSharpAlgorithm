@@ -1,0 +1,8 @@
+C:\Users\aasss\source\repos\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.csproj.AssemblyReference.cache
+C:\Users\aasss\source\repos\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.csproj.SuggestedBindingRedirects.cache
+C:\Users\aasss\source\repos\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.csproj.CoreCompileInputs.cache
+C:\Users\aasss\source\repos\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.exe.config
+C:\Users\aasss\source\repos\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.exe
+C:\Users\aasss\source\repos\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.pdb
+C:\Users\aasss\source\repos\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.exe
+C:\Users\aasss\source\repos\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.pdb
