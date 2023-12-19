@@ -6,11 +6,15 @@ namespace AlgorithmStudy
     {
         public static void Main(string[] args)
         {
-            for (int i = 0; i < 1; i++)
-                TestInsertionSort();
+            TestThreeMatch();
 
             Console.WriteLine("끝");
             while (true) ;
+        }
+
+        private static void TestThreeMatch()
+        {
+            new ThreeMatch().Run();
         }
 
         private static void TestSelectionSort()

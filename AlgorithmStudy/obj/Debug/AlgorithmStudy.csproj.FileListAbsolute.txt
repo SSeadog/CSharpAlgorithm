@@ -13,3 +13,11 @@ C:\hjh\CSharpAlgorithm\AlgorithmStudy\obj\Debug\AlgorithmStudy.csproj.AssemblyRe
 C:\hjh\CSharpAlgorithm\AlgorithmStudy\obj\Debug\AlgorithmStudy.csproj.CoreCompileInputs.cache
 C:\hjh\CSharpAlgorithm\AlgorithmStudy\obj\Debug\AlgorithmStudy.exe
 C:\hjh\CSharpAlgorithm\AlgorithmStudy\obj\Debug\AlgorithmStudy.pdb
+C:\Users\aasss\Documents\CSharpAlgorithm\AlgorithmStudy\bin\Debug\AlgorithmStudy.exe.config
+C:\Users\aasss\Documents\CSharpAlgorithm\AlgorithmStudy\bin\Debug\AlgorithmStudy.exe
+C:\Users\aasss\Documents\CSharpAlgorithm\AlgorithmStudy\bin\Debug\AlgorithmStudy.pdb
+C:\Users\aasss\Documents\CSharpAlgorithm\AlgorithmStudy\obj\Debug\AlgorithmStudy.csproj.AssemblyReference.cache
+C:\Users\aasss\Documents\CSharpAlgorithm\AlgorithmStudy\obj\Debug\AlgorithmStudy.csproj.SuggestedBindingRedirects.cache
+C:\Users\aasss\Documents\CSharpAlgorithm\AlgorithmStudy\obj\Debug\AlgorithmStudy.csproj.CoreCompileInputs.cache
+C:\Users\aasss\Documents\CSharpAlgorithm\AlgorithmStudy\obj\Debug\AlgorithmStudy.exe
+C:\Users\aasss\Documents\CSharpAlgorithm\AlgorithmStudy\obj\Debug\AlgorithmStudy.pdb
