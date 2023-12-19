@@ -6,3 +6,10 @@ C:\Users\aasss\source\repos\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStu
 C:\Users\aasss\source\repos\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.pdb
 C:\Users\aasss\source\repos\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.exe
 C:\Users\aasss\source\repos\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.pdb
+C:\hjh\CSharpAlgorithm\AlgorithmStudy\bin\Debug\AlgorithmStudy.exe.config
+C:\hjh\CSharpAlgorithm\AlgorithmStudy\bin\Debug\AlgorithmStudy.exe
+C:\hjh\CSharpAlgorithm\AlgorithmStudy\bin\Debug\AlgorithmStudy.pdb
+C:\hjh\CSharpAlgorithm\AlgorithmStudy\obj\Debug\AlgorithmStudy.csproj.AssemblyReference.cache
+C:\hjh\CSharpAlgorithm\AlgorithmStudy\obj\Debug\AlgorithmStudy.csproj.CoreCompileInputs.cache
+C:\hjh\CSharpAlgorithm\AlgorithmStudy\obj\Debug\AlgorithmStudy.exe
+C:\hjh\CSharpAlgorithm\AlgorithmStudy\obj\Debug\AlgorithmStudy.pdb
